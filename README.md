@@ -1,7 +1,7 @@
 <div align="center">
   <img height="120" src="https://narekmalk.com/images/csharp.png">
   <h1>Tricky C# Questions & Answers</h1>
-  <p>Test your C# knowledge before an interview with these questions of type "what's the output of the following code snippet". In many cases you'll find answers surprising. Please leave a star if you find this useful.</p>
+  <p>Test your C# knowledge before an interview with these questions of type "what's the output of the following code snippet". In many cases you'll find answers surprising. Please leave a star.</p>
 </div>
 
 ---
